@@ -142,7 +142,7 @@ public:
     }
 };
 class Tree : public Forest {
-public:S
+public:
     void type() {  
         cout << "Tree type: conifer" << endl;
     }
